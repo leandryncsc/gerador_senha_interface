@@ -2,7 +2,7 @@
 
 ## Como usar o script:
 
-- Instale o Python: Se ainda não tiver o Python instalado, você pode baixá-lo em [python.org.](python.org)
+- Instale o Python: Se ainda não tiver o Python instalado, você pode baixá-lo em [python.org.](https://www.python.org)
 
 ## Execute o script:
 
