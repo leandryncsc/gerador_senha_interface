@@ -1,18 +1,20 @@
-# Gerador de senha com interface grafica
+# Instruções
 
 ## Como usar o script:
 
 - Instale o Python: Se ainda não tiver o Python instalado, você pode baixá-lo em [python.org.](https://www.python.org)
 
-## Execute o script:
+## Bibliotecas:
 
-- Execute o script no terminal ou prompt de comando usando python gerador_senha.py.
+- Certifique-se de ter a biblioteca Tkinter instalada. Ela geralmente vem por padrão com a instalação do Python.
 
 ## Utilize a interface:
 
-- Insira o comprimento desejado para a senha e clique em "Gerar Senha".
-- A senha gerada será exibida no campo de texto.
-- Você pode copiar a senha gerada para a área de transferência clicando em "Copiar Senha".
+- Digite o comprimento desejado da senha no campo de entrada, clique em "Gerar Senha" e a senha gerada será exibida. Você pode copiá-la para a área de transferência clicando no botão "Copiar Senha".
+
+## Log:
+
+- Cada senha gerada será adicionada ao arquivo log.txt no mesmo diretório onde o script está localizado.
 
 ## Autor
 
